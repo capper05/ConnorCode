@@ -1,3 +1,3 @@
-# Thing-with-stuff
+Connor's Code
 
-This is a game that is being made for fun only.
+This is a compilation of Connor's code.  No bugs allowed, only features.
